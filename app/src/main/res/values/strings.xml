@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">AppTheme</string>
+    <string name="switchTitle">Dark Mode</string>
+</resources>
