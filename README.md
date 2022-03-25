@@ -1,2 +1,2 @@
 # AppTheme
-*Theme Settings Using SharedPreferences
+# Theme Settings Using SharedPreferences
